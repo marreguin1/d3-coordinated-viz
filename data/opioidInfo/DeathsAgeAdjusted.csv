@@ -1,0 +1,52 @@
+name,adm1_code,AA_ODR,AA_FullDR,PercChangeODR,PercChangeFullDDR
+Alabama,USA-3541,7.5,16.2,0.23,0.03
+Alaska,USA-3563,12.5,16.8,0.14,0.05
+Arizona,USA-3520,11.4,20.3,0.12,0.07
+Arkansas,USA-3528,5.9,14,-0.18,0.01
+California,USA-3521,4.9,11.2,0,-0.01
+Colorado,USA-3522,9.5,16.6,0.09,0.08
+Connecticut,USA-3537,24.5,27.4,0.28,0.24
+Delaware,USA-3555,16.9,30.8,0.14,0.4
+District of Columbia,USA-3556,30,38.8,1.07,1.09
+Florida,USA-3542,14.4,23.7,0.53,0.46
+Georgia,USA-3543,8.8,13.3,0.05,0.05
+Hawaii,USA-3517,5.2,12.8,0.27,0.13
+Idaho,USA-3518,7.4,15.2,0.23,0.07
+Illinois,USA-3546,15.3,18.9,0.43,0.34
+Indiana,USA-3547,12.6,24,0.48,0.23
+Iowa,USA-3529,6.2,10.6,0.07,0.03
+Kansas,USA-3530,5.1,11.1,-0.06,-0.06
+Kentucky,USA-3548,23.6,33.5,0.12,0.12
+Louisiana,USA-3535,7.7,21.8,0.22,0.15
+Maine,USA-3561,25.2,28.7,0.31,0.35
+Maryland,USA-3557,29.7,33.2,0.68,0.59
+Massachusetts,USA-3513,29.7,33,0.27,0.28
+Michigan,USA-3562,18.5,24.4,0.36,0.2
+Minnesota,USA-3514,7.4,12.5,0.19,0.18
+Mississippi,USA-3544,6.2,12.1,0.17,-0.02
+Missouri,USA-3531,15.9,23.6,0.36,0.32
+Montana,USA-3515,4.2,11.7,-0.16,-0.15
+Nebraska,USA-3532,2.4,6.4,-0.23,-0.07
+Nevada,USA-3523,13.3,21.7,-0.04,0.06
+New Hampshire,USA-3538,35.8,39,0.14,0.14
+New Jersey,USA-3558,16,23.2,0.63,0.42
+New Mexico,USA-3524,17.5,25.2,-0.02,0
+New York,USA-3559,15.1,18,0.4,0.32
+North Carolina,USA-3549,15.4,19.7,0.29,0.25
+North Dakota,USA-3516,7.6,10.6,0.58,0.23
+Ohio,USA-3550,32.9,39.1,0.33,0.31
+Oklahoma,USA-3533,11.6,21.5,0.04,0.13
+Oregon,USA-3525,7.6,11.9,-0.04,-0.01
+Pennsylvania,USA-3560,18.5,37.9,0.65,0.44
+Rhode Island,USA-3539,26.7,30.8,0.14,0.09
+South Carolina,USA-3545,13.1,18.1,0.15,0.15
+South Dakota,USA-3534,5,8.4,0.43,0
+Tennessee,USA-3551,18.1,24.5,0.13,0.1
+Texas,USA-3536,4.9,10.1,0.04,0.07
+Utah,USA-3526,16.4,22.4,0.03,-0.04
+Vermont,USA-3540,18.4,22.2,0.37,0.33
+Virginia,USA-3552,13.5,16.7,0.36,0.35
+Washington,USA-3519,9.4,14.5,0.01,-0.01
+West Virginia,USA-3554,43.4,52,0.21,0.25
+Wisconsin,USA-3553,15.8,19.3,0.41,0.25
+Wyoming,USA-3527,8.7,17.6,0.1,0.07

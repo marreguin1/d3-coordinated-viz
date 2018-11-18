@@ -1,0 +1,19 @@
+.states {
+    fill: #FFF;
+    stroke: #000;
+    stroke-width: 1.5px;
+}
+
+.gratLines {
+    fill: none;
+    stroke: #999;
+    stroke-width: .5px;
+}
+
+.gratBackground {
+    fill: #D5E3FF;
+}
+
+.map {
+    border: thin solid #999;
+}
